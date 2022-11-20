@@ -4,11 +4,7 @@
 
 If the chip is empty, it will enter the download mode automatically when you connect it to the USB port. Otherwise you may need the "force-download" tool.
 
-To flash the firmware, you need to obtain the AC692x SDK v2.6.3 from the reseller of the JieLi. 
-
-```diff
-# CSDN is also a good place to find files you want.
-```
+To flash the firmware, you need to obtain the `AC692x_SDK_release_V2.6.3` from the reseller of the JieLi. 
 
 After you installed the SDK, copy `sdk.app, download.bat` file to `AC692x_SDK_release_V2.6.3\apps\download\post_build\flash` folder.
 
