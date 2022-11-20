@@ -30,5 +30,5 @@ TP4057 (The direction of silkscreen is drawn in the datasheet, do not mistake it
 
 Battery:
 
-402040 3.7V Li-ion battery with **built-in protection circuit** 
+- 402040 3.7V Li-ion battery, **built-in protection circuit** is mandatory.
 
