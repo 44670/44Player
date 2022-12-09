@@ -24,7 +24,7 @@ Transparent OLED music player, built with JieLi's AC6921A SoC.
 
 本项目仅供学习、研究，禁止用于商业用途，作者不对任何人使用本项目造成的任何后果负责。
 
-This project only contains binary firmware, does not contain third-party source code, tools, please contact the relevant vendors to obtain the burn-in tool.
+This project only contains binary firmware and does not include third-party source code or tools. Please contact the chip agent to obtain SDK and burning tools.
 
-This project is for learning and research purposes only, commercial use is not allowed, and the author is not responsible for any consequences caused by anyone using this project.
+This project is for learning and research only and is prohibited for commercial use. The author is not responsible for any consequences caused by anyone using this project.
 
